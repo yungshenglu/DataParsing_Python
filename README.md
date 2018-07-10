@@ -29,4 +29,4 @@ $ python ./Lab2/main.py
 ---
 ## Author
 
-* [David Lu]()
+* [David Lu](https://github.com/yungshenglu)
