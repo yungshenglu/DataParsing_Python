@@ -3,14 +3,20 @@
 This repository is some pactice of data parsing by using Python. Notice that this repository is lab in "Workshop on AI & Big Data Analytics 2018".
 
 ---
-## Installation 
+## Execution 
 
-```bash
-# Execute each main.py under each folder
-$ python ./Lab0/main.py
-$ python ./Lab1/main.py
-$ python ./Lab2/main.py
-```
+* Lab0 - Sort the last column and print the result
+   ```bash
+   $ python ./Lab0/main.py
+   ```
+* Lab1 - Extract specific data in JSON file
+   ```bash
+   $ python ./Lab1/main.py
+   ```
+* Lab2 - Transfer the image into grayscale and rotation
+   ```bash
+   $ python ./Lab2/main.py
+   ```
 
 ---
 ## Framework
